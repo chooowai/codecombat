@@ -1,107 +1,106 @@
-module.exports = nativeDescription: "မြန်မာစကား", englishDescription: "Myanmar language", translation:
-#  home:
-#    slogan: "Learn to Code by Playing a Game"
-#    no_ie: "CodeCombat does not run in Internet Explorer 8 or older. Sorry!"  # Warning that only shows up in IE8 and older
-#    no_mobile: "CodeCombat wasn't designed for mobile devices and may not work!"  # Warning that shows up on mobile devices
-#    play: "Play"  # The big play button that opens up the campaign view.
-#    old_browser: "Uh oh, your browser is too old to run CodeCombat. Sorry!"  # Warning that shows up on really old Firefox/Chrome/Safari
-#    old_browser_suffix: "You can try anyway, but it probably won't work."
-#    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
-#    campaign: "Campaign"
-#    for_beginners: "For Beginners"
-#    multiplayer: "Multiplayer"  # Not currently shown on home page
-#    for_developers: "For Developers"  # Not currently shown on home page.
-#    or_ipad: "Or download for iPad"
+module.exports = nativeDescription: "ျမန္မာစကား", englishDescription: "Myanmar language", translation:
+  home:
+    slogan: "ဂိမ္းေဆာ့ျပီး code ေရးနည္းသင္လိုုက္ပါ"
+    no_ie: "CodeCombat ကုုိ Internet Exployer 8 ႏွင့္ ေအာက္တြင္ ေဆာ့မရပါခင္ဗ်ာ"  # Warning that only shows up in IE8 and older
+    no_mobile: "CodeCombat ကို ဖုုန္းႏွင့္ mobile device မ်ားတြင္ ေဆာ့၍ မရႏုုိင္ပါ!"  # Warning that shows up on mobile devices
+    play: "ကစားမည္"  # The big play button that opens up the campaign view.
+   old_browser: "တိန္, ဒီ broswer က ေတာ္ေတာ္ေဟာင္းေနျပီဗ် ေဆာ့လိုု႔ရဘူး!"  # Warning that shows up on really old Firefox/Chrome/Safari
+    old_browser_suffix: "စမ္းၾကည့္ေပါ့ဗ်ာ ေကာင္းေကာင္းေတာ့အလုုပ္လုုပ္မွာဟုုတ္ဘူးဗ်."
+    ipad_browser: "သတင္းဆိုုး၊ iPad ထဲမွာ browser ၀င္ေဆာ့လိုု႔မရဘူးဗ်။ သတင္းေကာင္း၊ iPad အတြက္ Code Combat ကေတာ့ apple store မွာ approval ေစာင့္ေနတယ္ဗ်"
+    campaign: "ခ်န္ပီယံ"
+    for_beginners: "စေဆာ့မယ့္သူအတြက္"
+    multiplayer: "လူအမ်ားနဲ႔ေဆာ့မယ္"  # Not currently shown on home page
+    for_developers: "Developerေတြအတြက္"  # Not currently shown on home page.
+    or_ipad: "iPad အတြက္ Download ဆြဲမလား?"
 
-#  nav:
-#    play: "Levels"  # The top nav bar entry where players choose which levels to play
-#    community: "Community"
-#    editor: "Editor"
-#    blog: "Blog"
-#    forum: "Forum"
-#    account: "Account"
-#    profile: "Profile"
-#    stats: "Stats"
-#    code: "Code"
-#    admin: "Admin"  # Only shows up when you are an admin
-#    home: "Home"
-#    contribute: "Contribute"
-#    legal: "Legal"
-#    about: "About"
-#    contact: "Contact"
-#    twitter_follow: "Follow"
-#    teachers: "Teachers"
+  nav:
+    play: "အဆင့္"  # The top nav bar entry where players choose which levels to play
+    community: "အဖြဲ႔အစည္း"
+    editor: "တည္းျဖတ္သူ"
+    blog: "ဘေလာ့"
+    forum: "ဖိုုရမ္"
+    account: "အေကာင့္"
+    profile: "Profile"
+    stats: "စာရင္း"
+    code: "Code"
+    admin: "စီမံသူ"  # Only shows up when you are an admin
+    home: "ပင္မစာမ်က္ႏွာ"
+    contribute: "ေထာက္ပံ့မည္"
+    legal: "တရား၀င္"
+    about: "ဂိမ္းအေၾကာင္း"
+    contact: "ဆက္သြယ္ရန္"
+    twitter_follow: "Follow"
+    teachers: "ဆရာမ်ား"
+    
+  modal:
+    close: "ပိတ္မည္"
+    okay: "အုုိေက"
 
-#  modal:
-#    close: "Close"
-#    okay: "Okay"
-
-#  not_found:
-#    page_not_found: "Page not found"
+  not_found:
+    page_not_found: "စာမ်က္ႏွာရွာမရပါ"
 
   diplomat_suggestion:
-#    title: "Help translate CodeCombat!"  # This shows up when a player switches to a non-English language using the language selector.
-#    sub_heading: "We need your language skills."
-    pitch_body: "We develop CodeCombat in English, but we already have players all over the world. Many of them want to play in Myanmar language but don't speak English, so if you can speak both, please consider signing up to be a Diplomat and help translate both the CodeCombat website and all the levels into Myanmar language."
+    title: "Code combat ကိုု ဘာသာ ျပန္ေပးၾကပါဗ်ဳိ႔!"  # This shows up when a player switches to a non-English language using the language selector.
+    sub_heading: "မင္းဘာသာစကားစြမ္းရည္ကုုိလုုိအပ္ေနပါတယ္။"
+    pitch_body: "Code Combat ကိုု English ကိုု စေရးခဲ့ပါတယ္။ အခုု တစ္ကမာၻလံုုးမွာေဆာ့ေနၾကျပီျဖစ္ပါတယ္။  အဲဒီထဲမွာ ျမန္မာေတြပါျပီး တခ်ဳိ႔က အဂၤလိပ္စာ အားနည္းမႈေၾကာင့္ေသာ္လည္းေကာင္း ျမန္မာစာကိုု ႏွစ္သက္၍ေသာ္လည္းေကာင္း ျမန္မာလိုုေဆာ့ခ်င္ၾကပါတယ္။ အဲဒီေတာ့ ျမန္မာေရာ အဂၤလိပ္ေရာ္ က်ြမ္းက်င္ရင္၊ Dimplomat အေနနဲ႔ sign up လုုပ္ျပီး ဘာသာျပန္ေပးဖိုု႔ တိုုက္တြန္းပါရေစ။"
 #    missing_translations: "Until we can translate everything into {English}, you'll see English when {English} isn't available."
-#    learn_more: "Learn more about being a Diplomat"
-#    subscribe_as_diplomat: "Subscribe as a Diplomat"
+    learn_more: "သံတမံ တစ္ေယာက္အေၾကာင္းပိုုမိုုေလ့လာမယ္"
+    subscribe_as_diplomat: "သံတမံ အေနနဲ႔ပါ၀င္မယ္"
 
-#  play:
-#    play_as: "Play As"  # Ladder page
-#    spectate: "Spectate"  # Ladder page
-#    players: "players"  # Hover over a level on /play
-#    hours_played: "hours played"  # Hover over a level on /play
-#    items: "Items"  # Tooltip on item shop button from /play
-#    unlock: "Unlock"  # For purchasing items and heroes
-#    confirm: "Confirm"
-#    owned: "Owned"  # For items you own
-#    locked: "Locked"
-#    purchasable: "Purchasable"  # For a hero you unlocked but haven't purchased
-#    available: "Available"
-#    skills_granted: "Skills Granted"  # Property documentation details
-#    heroes: "Heroes"  # Tooltip on hero shop button from /play
-#    achievements: "Achievements"  # Tooltip on achievement list button from /play
-#    account: "Account"  # Tooltip on account button from /play
-#    settings: "Settings"  # Tooltip on settings button from /play
-#    poll: "Poll"  # Tooltip on poll button from /play
-#    next: "Next"  # Go from choose hero to choose inventory before playing a level
-#    change_hero: "Change Hero"  # Go back from choose inventory to choose hero
-#    choose_inventory: "Equip Items"
-#    buy_gems: "Buy Gems"
-#    subscription_required: "Subscription Required"
-#    anonymous: "Anonymous Player"
-#    level_difficulty: "Difficulty: "
-#    campaign_beginner: "Beginner Campaign"
-#    awaiting_levels_adventurer_prefix: "We release new levels every week."
-#    awaiting_levels_adventurer: "Sign up as an Adventurer"
-#    awaiting_levels_adventurer_suffix: "to be the first to play new levels."
-#    adjust_volume: "Adjust volume"
-#    campaign_multiplayer: "Multiplayer Arenas"
-#    campaign_multiplayer_description: "... in which you code head-to-head against other players."
-#    campaign_old_multiplayer: "(Deprecated) Old Multiplayer Arenas"
-#    campaign_old_multiplayer_description: "Relics of a more civilized age. No simulations are run for these older, hero-less multiplayer arenas."
+  play:
+    play_as: "ဘယ္လိုုေဆာ့"  # Ladder page
+    spectate: "ပြဲၾကည့္ပရိသတ္"  # Ladder page
+    players: "ကစားသမားမ်ား"  # Hover over a level on /play
+    hours_played: "ေဆာ့ခဲ့တဲ့နာရီ"  # Hover over a level on /play
+    items: "လက္နက္ကရိယာမ်ား"  # Tooltip on item shop button from /play
+    unlock: "ဖြင့္မယ္"  # For purchasing items and heroes
+    confirm: "အတည္ျပဳမယ္"
+    owned: "ပိုုင္ျပီးသား"  # For items you own
+    locked: "ပိတ္ထားသည္"
+    purchasable: "၀ယ္လိုု႔ရတယ္"  # For a hero you unlocked but haven't purchased
+    available: "ရႏုုိင္တယ္"
+    skills_granted: "အစြမ္းသံုုးခြင့္ျပဳျပီး"  # Property documentation details
+    heroes: "သူရဲေကာင္းမ်ား"  # Tooltip on hero shop button from /play
+    achievements: "ေအာင္ျမင္မႈ"  # Tooltip on achievement list button from /play
+    account: "Account"  # Tooltip on account button from /play
+    settings: "ထိန္းညွိခန္း"  # Tooltip on settings button from /play
+    poll: "မဲေကာက္ျခင္း"  # Tooltip on poll button from /play
+    next: "ေနာက္သိုု႔"  # Go from choose hero to choose inventory before playing a level
+    change_hero: "သူရဲေကာင္းလဲမယ္"  # Go back from choose inventory to choose hero
+    choose_inventory: "လက္နပ္တပ္မယ္"
+    buy_gems: "Gems၀ယ္မယ္"
+    subscription_required: "ေလွ်ာက္ထားရန္လိုုအပ္ပါသည္။"
+    anonymous: "အမည္မသိကစားသူ"
+    level_difficulty: "ခက္ခဲမႈပမာဏ: "
+    campaign_beginner: "စေဆာ့သူေတြရဲ႔ခ်န္ပီယံ"
+    awaiting_levels_adventurer_prefix: "အခန္းအသစ္ေတြအပတ္တိုုင္းထြက္ပါတယ္။"
+    awaiting_levels_adventurer: "စြန္႔စားသူ အေနနဲ႔ေလွ်ာက္ထားမယ္"
+    awaiting_levels_adventurer_suffix: "အခန္းသစ္ကိုုပထမဆံုုးေဆာ့ခ်င္ရင္"
+    adjust_volume: "အသံတိုုးက်ယ္"
+    campaign_multiplayer: "ကစားသမားမ်ားစြာရဲ႔စစ္ပြဲ"
+    campaign_multiplayer_description: "... ကစားသမားေတြျပိဳင္ျပီး code ေရးၾကမယ့္ေနရာ"
+    campaign_old_multiplayer: "(ကန့္ကြက္ထား)ကစားသမ်ားမ်ားစြာရဲ႔စစ္ပြဲအေဟာင္း"
+    campaign_old_multiplayer_description: "ယဥ္ေက်းလာတဲ့ေခတ္ရဲ႔အေမြ... သူရဲေကာင္းမဲ့ စစ္ပြဲအေဟာင္းေတြအတြက္ simulatorေတြ မရွိေတာ့ပါဘူး"
+  share_progress_modal:
+    blurb: "မင္းေတာ္ေတာ္ေတာ္တာပဲ! မင္းမိဘေတြကိုု Code Combat ကေန မင္းဘာေတြသင္ျပီးျပီလဲ ျပလိုုက္ပါလား."
+    email_invalid: "Email လိပ္စာလြဲေနတယ္."
+    form_blurb: "မင္းမိဘရဲ႔emailကိုု ေအာ္မွာထည့္ေပး ငါတိုု႔သြားေျပာေပးမယ္ေလ"
+    form_label: "Email လိပ္စာ"
+    placeholder: "email လိပ္စာ"
+    title: "အရမ္းေကာင္းတယ္ လက္ေထာက္ေရ"
 
-#  share_progress_modal:
-#    blurb: "You’re making great progress! Tell your parent how much you've learned with CodeCombat."
-#    email_invalid: "Email address invalid."
-#    form_blurb: "Enter your parent's email below and we’ll show them!"
-#    form_label: "Email Address"
-#    placeholder: "email address"
-#    title: "Excellent Work, Apprentice"
-
-#  login:
-#    sign_up: "Create Account"
-#    log_in: "Log In"
-#    logging_in: "Logging In"
-#    log_out: "Log Out"
-#    forgot_password: "Forgot your password?"
-#    authenticate_gplus: "Authenticate G+"
-#    load_profile: "Load G+ Profile"
-#    finishing: "Finishing"
-#    sign_in_with_facebook: "Sign in with Facebook"
-#    sign_in_with_gplus: "Sign in with G+"
-#    signup_switch: "Want to create an account?"
+  login:
+    sign_up: "Accountသစ္ လုုပ္မယ္"
+    log_in: "Log In"
+    logging_in: "Logging In"
+    log_out: "Log Out"
+    forgot_password: "Password ေမ့ေနတယ္"
+    authenticate_gplus: "G+ မွခြင့္ေတာင္းသည္"
+    load_profile: "G+ Profile တင္ေနသည္"
+    finishing: "ျပီးေတာ့မည္"
+    sign_in_with_facebook: "Facebookနဲ႔၀င္မယ္"
+    sign_in_with_gplus: "G+ နဲ႔၀င္မည္"
+    signup_switch: "အေကာင့္သစ္လုုပ္ခ်င္လား?"
 
 #  signup:
 #    email_announcements: "Receive announcements by email"
